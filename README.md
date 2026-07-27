@@ -34,7 +34,8 @@ Little blue lights will indicate the charge level
 Hacking: 🙂
 Everything can get boring after a while and I’m not opposed to people playing with stuf
 Heck thats how I built this thing
-The audio files are all on a little micro SD card.
+The audio files are all on a little micro SD card. Files need to be compatable with the TMRpcm.h Arduino library version 1.3.7
+ and have the extension .wav
 Files need to be saved in a specific format and the file names need to be the same so the program knows where to find them.
 If you want to get adventurous here's the GitHub sight for the project. https://github.com/becauseyouare/Cigar-Box
 
