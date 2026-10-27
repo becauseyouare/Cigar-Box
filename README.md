@@ -40,11 +40,11 @@ Files need to be saved in a specific format and the file names need to be the sa
 If you want to get adventurous here's the GitHub sight for the project. https://github.com/becauseyouare/Cigar-Box
 
 Credits for sound files sourced from the following web sights:
-https://telephoneworld.org/
-https://www.thisisarecording.com/index.html
-https://freesound.org/
+https://telephoneworld.org/   
+https://www.thisisarecording.com/index.html   
+https://freesound.org/   
 
-Audio file conversion program. 
+Audio file conversion program.   
 https://audio.online-convert.com/convert-to-wav
 
 
