@@ -39,6 +39,13 @@ The audio files are all on a little micro SD card. Files need to be compatable w
 Files need to be saved in a specific format and the file names need to be the same so the program knows where to find them.
 If you want to get adventurous here's the GitHub sight for the project. https://github.com/becauseyouare/Cigar-Box
 
+Credits for sound files sourced from the following web sights:
+https://telephoneworld.org/
+https://www.thisisarecording.com/index.html
+https://freesound.org/
+
+Audio file conversion program. 
+https://audio.online-convert.com/convert-to-wav
 
 
 
